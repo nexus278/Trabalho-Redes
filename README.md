@@ -424,7 +424,7 @@ Trabalho-Redes/
 - [x] Topologias em `topologias/`
 - [x] README.md completo e bem estruturado
 - [x] Repositório GitHub com link na descrição do vídeo
-- [x] Vídeo demonstrativo no YouTube (4-6 minutos)
+- [ ] Vídeo demonstrativo no YouTube (4-6 minutos)
 - [ ] *Opcional:* Teste de falha e reconvergência
 
 ---
@@ -476,7 +476,3 @@ A implementação bem-sucedida valida o conhecimento em protocolos de roteamento
 - Todos os comandos foram testados em Cisco Packet Tracer
 
 ---
-
-**Repositório GitHub:** [Link do Repositório](#)
-
-**Vídeo no YouTube:** [https://www.youtube.com/watch?v=_37usCB-HjI](#)
